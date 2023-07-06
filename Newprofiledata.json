@@ -49,15 +49,5 @@
     "email": "Unknown",
     "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/lions.jpg",
 	"bio": "The lion (Panthera leo) is a large cat of the genus Panthera native to Africa and India. It has a muscular, bro"
-  },
-  {
-    "name": "lions",
-    "dob": "Unknown",
-    "city": "Unknown",
-    "country": "Unknown",
-    "phone": "Unknown",
-    "email": "Unknown",
-    "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/lions.jpg",
-	"bio": "The lion (Panthera leo) is a large cat of the genus Panthera native to Africa and India. It has a muscular, bro"
   }
 ]
