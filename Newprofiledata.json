@@ -7,7 +7,7 @@
     "country": "Unknown",
     "phone": "Unknown",
     "email": "Unknown",
-    "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/cat.jpg",
+    "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/cats.jpg",
 	"bio": "The cat (Felis catus) is a domestic species of small carnivorous mammal.[1][2] It is the only domesticated species in the family Felidae and is commonly referred to as the domestic cat or house cat to distinguish it from the wild members of the family.[4] Cats are commonly kept as house pets but can also be farm cats or feral cats; the feral cat ranges freely and avoids human contact.[5] Domestic cats are valued by humans for companionship and their ability to kill vermin. About 60 cat breeds are recognized by various cat registries.[6]"
   },
   {
@@ -17,7 +17,7 @@
     "country": "Unknown",
     "phone": "Unknown",
     "email": "Unknown",
-    "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/dog.jpg",
+    "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/dogs.jpg",
 	"bio": "The dog (Canis familiaris[4][5] or Canis lupus familiaris[5]) is a domesticated descendant of the wolf. Also called the domestic dog, it is derived from extinct Pleistocene wolves,[6][7] and the modern wolf is the dog's nearest living relative.[8] Dogs were the first species to be"
   },
   {
@@ -39,6 +39,16 @@
     "email": "Unknown",
     "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/horsee.jpg",
 	"bio": "he horse (Equus ferus caballus)[2][3] is a domesticated, one-toed, hoofed mammal. It belongs to the taxonomic family Equidae and is one of two extant"
+  },
+  {
+    "name": "lions",
+    "dob": "Unknown",
+    "city": "Unknown",
+    "country": "Unknown",
+    "phone": "Unknown",
+    "email": "Unknown",
+    "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/lions.jpg",
+	"bio": "The lion (Panthera leo) is a large cat of the genus Panthera native to Africa and India. It has a muscular, bro"
   },
   {
     "name": "lions",
