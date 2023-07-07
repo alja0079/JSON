@@ -51,14 +51,14 @@
 	"bio": "The lion (Panthera leo) is a large cat of the genus Panthera native to Africa and India. It has a muscular, bro"
   },
   {
-    "name": "forg",
+    "name": "frog",
     "dob": "Unknown",
     "city": "Unknown",
     "country": "Unknown",
     "phone": "Unknown",
     "email": "Unknown",
     "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/frog.jpg",
-	"bio": "he horse (Equus ferus caballus)[2][3] is a domesticated, one-toed, hoofed mammal. It belongs to the taxonomic family Equidae and is one of two extant"
+	"bio": "A frog is any member of a diverse and largely carnivorous group of short-bodied, taill"
   },
   {
     "name": "camel",
@@ -68,6 +68,6 @@
     "phone": "Unknown",
     "email": "Unknown",
     "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/camel.jpg",
-	"bio": "he horse (Equus ferus caballus)[2][3] is a domesticated, one-toed, hoofed mammal. It belongs to the taxonomic family Equidae and is one of two extant"
+	"bio": "A camel (from Latin: camelus and Greek: κάμηλος (kamēlos) from Arabic"
   }
 ]
