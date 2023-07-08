@@ -22,7 +22,7 @@
     "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/dogs.jpg",
 	"bio": "The dog (Canis familiaris[4][5] or Canis lupus familiaris[5]) is a domesticated descendant of the wolf. Also called the domestic dog, it is derived from extinct Pleistocene wolves,[6][7] and the modern wolf is the dog's nearest living relative.[8] Dogs were the first species to be",
 	"VideoLink": "",
-	"Video": ""
+	"Video": "C:/Users/Ali/Videos/My Video.mp4"
   },
   {
     "name": "Eagle",
@@ -33,7 +33,7 @@
     "email": "Unknown",
     "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/eagle.jpg",
 	"bio": "Eagle is the common name for many large birds of prey of the family Accipitridae. Eagles belong to several groups of genera, some of which are closely related. True eagles comprise the genus Aq",
-	"VideoLink": "",
+	"VideoLink": "https://www.youtube.com/watch?v=VSrtjxB2CH8",
 	"Video": ""
   },
   {
@@ -357,6 +357,7 @@
     "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/worm.jpg",
 	"bio": "The dog (Canis familiaris[4][5] or Canis lupus familiaris[5]) is a domesticated descendant of the wolf. Also called the domestic dog, it is derived from extinct Pleistocene wolves,[6][7] and the modern wolf is the dog's nearest living relative.[8] Dogs were the first species to be",
 	"VideoLink": ""
+	"Video": ""
   }
 ]  
   
