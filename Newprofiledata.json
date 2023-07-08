@@ -335,7 +335,7 @@
     "dob": "Unknown",
     "city": "Unknown",
     "country": "Unknown",
-    "_message": "<p>This is a message in Word format.</p><p>It can contain rich formatting like <b>bold</b>, <i>italic</i>, etc.</p>"  
+    "_message": "<p>This is a message in Word format.</p><p>It can contain rich formatting like <b>bold</b>, <i>italic</i>, etc.</p>",  
     "phone": "Unknown",
     "email": "Unknown",
     "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/dolphins.jpg",
