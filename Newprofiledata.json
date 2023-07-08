@@ -9,7 +9,8 @@
     "email": "Unknown",
     "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/cats.jpg",
 	"bio": "The cat (Felis catus) is a domestic species of small carnivorous mammal.[1][2] It is the only domesticated species in the family Felidae and is commonly referred to as the domestic cat or house cat to distinguish it from the wild members of the family.[4] Cats are commonly kept as house pets but can also be farm cats or feral cats; the feral cat ranges freely and avoids human contact.[5] Domestic cats are valued by humans for companionship and their ability to kill vermin. About 60 cat breeds are recognized by various cat registries.[6]",
-	"VideoLink": ""
+	"VideoLink": "",
+	"Video": ""
   },
   {
     "name": "dogs",
@@ -20,7 +21,8 @@
     "email": "Unknown",
     "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/dogs.jpg",
 	"bio": "The dog (Canis familiaris[4][5] or Canis lupus familiaris[5]) is a domesticated descendant of the wolf. Also called the domestic dog, it is derived from extinct Pleistocene wolves,[6][7] and the modern wolf is the dog's nearest living relative.[8] Dogs were the first species to be",
-	"VideoLink": ""
+	"VideoLink": "",
+	"Video": ""
   },
   {
     "name": "Eagle",
@@ -31,7 +33,8 @@
     "email": "Unknown",
     "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/eagle.jpg",
 	"bio": "Eagle is the common name for many large birds of prey of the family Accipitridae. Eagles belong to several groups of genera, some of which are closely related. True eagles comprise the genus Aq",
-	"VideoLink": ""
+	"VideoLink": "",
+	"Video": ""
   },
   {
     "name": "horse",
@@ -41,7 +44,8 @@
     "email": "Unknown",
     "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/horsee.jpg",
 	"bio": "he horse (Equus ferus caballus)[2][3] is a domesticated, one-toed, hoofed mammal. It belongs to the taxonomic family Equidae and is one of two extant",
-	"VideoLink": ""
+	"VideoLink": "",
+	"Video": ""
   },
   {
     "name": "lions",
@@ -52,7 +56,8 @@
     "email": "Unknown",
     "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/lions.jpg",
 	"bio": "The lion (Panthera leo) is a large cat of the genus Panthera native to Africa and India. It has a muscular, bro",
-	"VideoLink": ""
+	"VideoLink": "",
+	"Video": ""
   },
   {
     "name": "frog",
@@ -63,7 +68,8 @@
     "email": "Unknown",
     "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/frog.jpg",
 	"bio": "A frog is any member of a diverse and largely carnivorous group of short-bodied, taill",
-	"VideoLink": ""
+	"VideoLink": "",
+	"Video": ""
   },
   {
     "name": "camel",
@@ -74,7 +80,8 @@
     "email": "Unknown",
     "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/camel.jpg",
 	"bio": "A camel (from Latin: camelus and Greek: κάμηλος (kamēlos) from Arabic",
-	"VideoLink": ""
+	"VideoLink": "",
+	"Video": ""
   },
   {
     "name": "Nike",
@@ -85,7 +92,8 @@
     "email": "Unknown",
     "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/Nike.jpg",
 	"bio": "The dog (Canis familiaris[4][5] or Canis lupus familiaris[5]) is a domesticated descendant of the wolf. Also called the domestic dog, it is derived from extinct Pleistocene wolves,[6][7] and the modern wolf is the dog's nearest living relative.[8] Dogs were the first species to be",
-	"VideoLink": ""
+	"VideoLink": "",
+	"Video": ""
   },
   {
     "name": "Addidass",
@@ -96,7 +104,8 @@
     "email": "Unknown",
     "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/Addidass.jpg",
 	"bio": "The dog (Canis familiaris[4][5] or Canis lupus familiaris[5]) is a domesticated descendant of the wolf. Also called the domestic dog, it is derived from extinct Pleistocene wolves,[6][7] and the modern wolf is the dog's nearest living relative.[8] Dogs were the first species to be",
-	"VideoLink": ""
+	"VideoLink": "",
+	"Video": ""
   },
   {
     "name": "Puma",
@@ -107,7 +116,8 @@
     "email": "Unknown",
     "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/Puma.jpg",
 	"bio": "The dog (Canis familiaris[4][5] or Canis lupus familiaris[5]) is a domesticated descendant of the wolf. Also called the domestic dog, it is derived from extinct Pleistocene wolves,[6][7] and the modern wolf is the dog's nearest living relative.[8] Dogs were the first species to be",
-	"VideoLink": ""
+	"VideoLink": "",
+	"Video": ""
   },
   {
     "name": "snake",
@@ -118,7 +128,8 @@
     "email": "Unknown",
     "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/snake.jpg",
 	"bio": "The dog (Canis familiaris[4][5] or Canis lupus familiaris[5]) is a domesticated descendant of the wolf. Also called the domestic dog, it is derived from extinct Pleistocene wolves,[6][7] and the modern wolf is the dog's nearest living relative.[8] Dogs were the first species to be",
-	"VideoLink": ""
+	"VideoLink": "",
+	"Video": ""
   },
   {
     "name": "wolf",
@@ -129,7 +140,8 @@
     "email": "Unknown",
     "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/wolf.jpg",
 	"bio": "The dog (Canis familiaris[4][5] or Canis lupus familiaris[5]) is a domesticated descendant of the wolf. Also called the domestic dog, it is derived from extinct Pleistocene wolves,[6][7] and the modern wolf is the dog's nearest living relative.[8] Dogs were the first species to be",
-	"VideoLink": ""
+	"VideoLink": "",
+	"Video": ""
   },
   {
     "name": "sheep",
@@ -140,7 +152,8 @@
     "email": "Unknown",
     "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/sheep.jpg",
 	"bio": "The dog (Canis familiaris[4][5] or Canis lupus familiaris[5]) is a domesticated descendant of the wolf. Also called the domestic dog, it is derived from extinct Pleistocene wolves,[6][7] and the modern wolf is the dog's nearest living relative.[8] Dogs were the first species to be",
-	"VideoLink": ""
+	"VideoLink": "",
+	"Video": ""
   },
   {
     "name": "Hawk",
@@ -151,7 +164,8 @@
     "email": "Unknown",
     "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/hawk.jpg",
 	"bio": "The dog (Canis familiaris[4][5] or Canis lupus familiaris[5]) is a domesticated descendant of the wolf. Also called the domestic dog, it is derived from extinct Pleistocene wolves,[6][7] and the modern wolf is the dog's nearest living relative.[8] Dogs were the first species to be",
-	"VideoLink": ""
+	"VideoLink": "",
+	"Video": ""
   },
   {
     "name": "goat",
@@ -162,7 +176,8 @@
     "email": "Unknown",
     "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/goat.jpg",
 	"bio": "The dog (Canis familiaris[4][5] or Canis lupus familiaris[5]) is a domesticated descendant of the wolf. Also called the domestic dog, it is derived from extinct Pleistocene wolves,[6][7] and the modern wolf is the dog's nearest living relative.[8] Dogs were the first species to be",
-	"VideoLink": ""
+	"VideoLink": "",
+	"Video": ""
   },
   {
     "name": "Bear",
@@ -173,7 +188,8 @@
     "email": "Unknown",
     "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/bear.jpg",
 	"bio": "The dog (Canis familiaris[4][5] or Canis lupus familiaris[5]) is a domesticated descendant of the wolf. Also called the domestic dog, it is derived from extinct Pleistocene wolves,[6][7] and the modern wolf is the dog's nearest living relative.[8] Dogs were the first species to be",
-	"VideoLink": ""
+	"VideoLink": "",
+	"Video": ""
   },
   {
     "name": "olga",
@@ -184,7 +200,8 @@
     "email": "Unknown",
     "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/olga.jpg",
 	"bio": "The dog (Canis familiaris[4][5] or Canis lupus familiaris[5]) is a domesticated descendant of the wolf. Also called the domestic dog, it is derived from extinct Pleistocene wolves,[6][7] and the modern wolf is the dog's nearest living relative.[8] Dogs were the first species to be",
-	"VideoLink": ""
+	"VideoLink": "",
+	"Video": ""
   },
   {
     "name": "monkey",
@@ -195,7 +212,8 @@
     "email": "Unknown",
     "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/monkey.jpg",
 	"bio": "The dog (Canis familiaris[4][5] or Canis lupus familiaris[5]) is a domesticated descendant of the wolf. Also called the domestic dog, it is derived from extinct Pleistocene wolves,[6][7] and the modern wolf is the dog's nearest living relative.[8] Dogs were the first species to be",
-	"VideoLink": ""
+	"VideoLink": "",
+	"Video": ""
   },
   {
     "name": "bees",
@@ -206,7 +224,8 @@
     "email": "Unknown",
     "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/bee.jpg",
 	"bio": "The dog (Canis familiaris[4][5] or Canis lupus familiaris[5]) is a domesticated descendant of the wolf. Also called the domestic dog, it is derived from extinct Pleistocene wolves,[6][7] and the modern wolf is the dog's nearest living relative.[8] Dogs were the first species to be",
-	"VideoLink": ""
+	"VideoLink": "",
+	"Video": ""
   },
   {
     "name": "whales",
@@ -217,7 +236,8 @@
     "email": "Unknown",
     "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/whale.jpg",
 	"bio": "The dog (Canis familiaris[4][5] or Canis lupus familiaris[5]) is a domesticated descendant of the wolf. Also called the domestic dog, it is derived from extinct Pleistocene wolves,[6][7] and the modern wolf is the dog's nearest living relative.[8] Dogs were the first species to be",
-	"VideoLink": ""
+	"VideoLink": "",
+	"Video": ""
   },
   {
     "name": "Fish",
@@ -228,7 +248,8 @@
     "email": "Unknown",
     "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/fish.jpg",
 	"bio": "The dog (Canis familiaris[4][5] or Canis lupus familiaris[5]) is a domesticated descendant of the wolf. Also called the domestic dog, it is derived from extinct Pleistocene wolves,[6][7] and the modern wolf is the dog's nearest living relative.[8] Dogs were the first species to be",
-	"VideoLink": ""
+	"VideoLink": "",
+	"Video": ""
   },
   {
     "name": "Sharks",
@@ -239,7 +260,8 @@
     "email": "Unknown",
     "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/shark.jpg",
 	"bio": "The dog (Canis familiaris[4][5] or Canis lupus familiaris[5]) is a domesticated descendant of the wolf. Also called the domestic dog, it is derived from extinct Pleistocene wolves,[6][7] and the modern wolf is the dog's nearest living relative.[8] Dogs were the first species to be",
-	"VideoLink": ""
+	"VideoLink": "",
+	"Video": ""
   },
   {
     "name": "Gorilla",
@@ -250,7 +272,8 @@
     "email": "Unknown",
     "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/gorilla.jpg",
 	"bio": "The dog (Canis familiaris[4][5] or Canis lupus familiaris[5]) is a domesticated descendant of the wolf. Also called the domestic dog, it is derived from extinct Pleistocene wolves,[6][7] and the modern wolf is the dog's nearest living relative.[8] Dogs were the first species to be",
-	"VideoLink": ""
+	"VideoLink": "",
+	"Video": ""
   },
   {
     "name": "Lizard",
@@ -261,7 +284,8 @@
     "email": "Unknown",
     "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/lizard.jpg",
 	"bio": "The dog (Canis familiaris[4][5] or Canis lupus familiaris[5]) is a domesticated descendant of the wolf. Also called the domestic dog, it is derived from extinct Pleistocene wolves,[6][7] and the modern wolf is the dog's nearest living relative.[8] Dogs were the first species to be",
-	"VideoLink": ""
+	"VideoLink": "",
+	"Video": ""
   },
   {
     "name": "Scorpian",
@@ -272,7 +296,8 @@
     "email": "Unknown",
     "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/Scorpian.jpg",
 	"bio": "The dog (Canis familiaris[4][5] or Canis lupus familiaris[5]) is a domesticated descendant of the wolf. Also called the domestic dog, it is derived from extinct Pleistocene wolves,[6][7] and the modern wolf is the dog's nearest living relative.[8] Dogs were the first species to be",
-	"VideoLink": ""
+	"VideoLink": "",
+	"Video": ""
   },
   {
     "name": "Ants",
@@ -283,7 +308,8 @@
     "email": "Unknown",
     "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/ants.jpg",
 	"bio": "The dog (Canis familiaris[4][5] or Canis lupus familiaris[5]) is a domesticated descendant of the wolf. Also called the domestic dog, it is derived from extinct Pleistocene wolves,[6][7] and the modern wolf is the dog's nearest living relative.[8] Dogs were the first species to be",
-	"VideoLink": ""
+	"VideoLink": "",
+	"Video": ""
   },
   {
     "name": "fox",
@@ -294,7 +320,8 @@
     "email": "Unknown",
     "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/fox.jpg",
 	"bio": "The dog (Canis familiaris[4][5] or Canis lupus familiaris[5]) is a domesticated descendant of the wolf. Also called the domestic dog, it is derived from extinct Pleistocene wolves,[6][7] and the modern wolf is the dog's nearest living relative.[8] Dogs were the first species to be",
-	"VideoLink": ""
+	"VideoLink": "",
+	"Video": ""
   },
   {
     "name": "Crocodille",
@@ -305,7 +332,8 @@
     "email": "Unknown",
     "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/Crocodille.jpg",
 	"bio": "The dog (Canis familiaris[4][5] or Canis lupus familiaris[5]) is a domesticated descendant of the wolf. Also called the domestic dog, it is derived from extinct Pleistocene wolves,[6][7] and the modern wolf is the dog's nearest living relative.[8] Dogs were the first species to be",
-	"VideoLink": ""
+	"VideoLink": "",
+	"Video": ""
   },
   {
     "name": "Butterfly",
@@ -316,7 +344,8 @@
     "email": "Unknown",
     "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/Butterfly.jpg",
 	"bio": "The dog (Canis familiaris[4][5] or Canis lupus familiaris[5]) is a domesticated descendant of the wolf. Also called the domestic dog, it is derived from extinct Pleistocene wolves,[6][7] and the modern wolf is the dog's nearest living relative.[8] Dogs were the first species to be",
-	"VideoLink": ""
+	"VideoLink": "",
+	"Video": ""
   },
   {
     "name": "worm",
@@ -328,27 +357,6 @@
     "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/worm.jpg",
 	"bio": "The dog (Canis familiaris[4][5] or Canis lupus familiaris[5]) is a domesticated descendant of the wolf. Also called the domestic dog, it is derived from extinct Pleistocene wolves,[6][7] and the modern wolf is the dog's nearest living relative.[8] Dogs were the first species to be",
 	"VideoLink": ""
-  },
-  {
-    "name": "wasp",
-    "dob": "Unknown",
-    "city": "Unknown",
-    "country": "Unknown",
-    "phone": "Unknown",
-    "email": "Unknown",
-    "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/wasp.jpg",
-	"bio": "The dog (Canis familiaris[4][5] or Canis lupus familiaris[5]) is a domesticated descendant of the wolf. Also called the domestic dog, it is derived from extinct Pleistocene wolves,[6][7] and the modern wolf is the dog's nearest living relative.[8] Dogs were the first species to be",
-	"VideoLink": ""
-  },
-  {
-    "name": "Cook",
-    "dob": "Unknown",
-    "city": "Unknown",
-    "country": "Unknown",
-    "phone": "Unknown",
-    "email": "Unknown",
-    "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/cook.jpg",
-	"bio": "The dog (Canis familiaris[4][5] or Canis lupus familiaris[5]) is a domesticated descendant of the wolf. Also called the domestic dog, it is derived from extinct Pleistocene wolves,[6][7] and the modern wolf is the dog's nearest living relative.[8] Dogs were the first species to be",
-	"VideoLink": "https://www.youtube.com/watch?v=itY6VWpdECc"
   }
-]
+]  
+  
