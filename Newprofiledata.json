@@ -9,7 +9,7 @@
     "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/EmadMostaque.jpg",
 	"bio": "Mostaque was born in Jordan, but was taken to Dhaka, Bangladesh a month later, and to the United Kingdom at age seven.[3]At age 19 he met his wife while on a student trip to the United States. He has been diagnosed with Asperger's and ADHD. In his twenties, he became interested in helping the Islamic world by creating online forums for Muslim communities and developing -Islamic AI- which would help guide people on their religious journey.[3]",
 	"VideoLink": "https://www.youtube.com/watch?v=x1xYP-PmnYk",
-	"Videos": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/Lib/site-packages/Clips/film.mp4"
+	"Video": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/Lib/site-packages/Clips/film.mp4"
   },
   {
     "name": "Peter H. Diamandis",
@@ -21,7 +21,7 @@
     "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/PeterDiamandis.jpg",
 	"bio": "Peter H. Diamandis is the co-author of the best-selling book 'Abundance: The Future is Better Than You Think' and a speaker, engineer, physician and entrepreneur best known for being the founder and chairman of the X PRIZE Foundation and the co-founder and chairman of Singularity University.",
 	"VideoLink": "",
-	"Videos": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/Lib/site-packages/Clips/film.mp4"
+	"Video": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/Lib/site-packages/Clips/film.mp4"
   },
   {
     "name": "Jim Caviezel",
@@ -33,7 +33,7 @@
     "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/JimCaviezel.jpg",
 	"bio": "James Patrick Caviezel Jr.[1] (/kəˈviːzəl/; born September 26, 1968) is an American film and television actor who played Jesus Christ in The Passion of the Christ (2004) and starred as John Reese on the CBS series Person of Interest (2011–2016).[2] He played Slov in G.I. Jane (1997), Private Witt in The Thin Red Line (1998), Detective John Sullivan in Frequency (2000), Catch in Angel Eyes (2001), and Edmond Dantès in The Count of Monte Cristo (2002).[3]",
 	"VideoLink": "",
-	"Videos": ""
+	"Video": ""
   },
   {
     "name": "Eric Metaxas",
@@ -45,6 +45,6 @@
     "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/Metaxas.png",
 	"bio": "Eric Metaxas (born 1963) is an American author, speaker, and conservative radio host. He has written three biographies, Amazing Grace: William Wilberforce and the Heroic Campaign to End Slavery about William Wilberforce (2007), Bonhoeffer: Pastor, Martyr, Prophet, Spy about Dietrich Bonhoeffer (2011), Martin Luther: The Man Who Rediscovered God and Changed the World (2017), If You Can Keep it (2017), Fish Out of Water: A Search for the Meaning of Life (2021) and Letter to the American Church (2022). He has also written humor, children's books and scripts for VeggieTales.",
 	"VideoLink": "",
-	"Videos": ""
+	"Video": ""
   }
 ]
