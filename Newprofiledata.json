@@ -8,7 +8,7 @@
     "email": "Unknown",
     "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/EmadMostaque.jpg",
 	"bio": "Mostaque was born in Jordan, but was taken to Dhaka, Bangladesh a month later, and to the United Kingdom at age seven.[3]At age 19 he met his wife while on a student trip to the United States. He has been diagnosed with Asperger's and ADHD. In his twenties, he became interested in helping the Islamic world by creating online forums for Muslim communities and developing -Islamic AI- which would help guide people on their religious journey.[3]",
-	"VideoLink": "https://www.youtube.com/watch?v=x1xYP-PmnYk",
+	"VideoLink": ["https://www.youtube.com/watch?v=x1xYP-PmnYk", "https://www.youtube.com/watch?v=Hu3Dx1iEu0g"],
 	"Video": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/Lib/site-packages/Clips/film.mp4"
   },
   {
