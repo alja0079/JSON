@@ -1,50 +1,38 @@
 [
   {
-    "name": "Emad Mostaque",
-    "dob": "April 1983",
-    "city": "Dhaka‏",
-    "country": "UK, Britain",
-    "phone": "Unknown",
+    "name": "Walid Abboud" ,
+    "dob": "Unknown",
+    "city": "Unknown",
+    "country": "Lebanon",
+    "phone": "313-400-0952",
     "email": "Unknown",
-    "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/EmadMostaque.jpg",
-	"bio": "Mostaque was born in Jordan, but was taken to Dhaka, Bangladesh a month later, and to the United Kingdom at age seven.[3]At age 19 he met his wife while on a student trip to the United States. He has been diagnosed with Asperger's and ADHD. In his twenties, he became interested in helping the Islamic world by creating online forums for Muslim communities and developing -Islamic AI- which would help guide people on their religious journey.[3]",
-	"VideoLink": ["https://www.youtube.com/watch?v=x1xYP-PmnYk", "https://www.youtube.com/watch?v=Hu3Dx1iEu0g"],
-	"Video": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/Lib/site-packages/Clips/film.mp4"
+    "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/walidabboud.jpg",
+	"bio": "إعلامي و مقدّم برنامج. وليد عبود، محاور سياسي لبناني، يقدم البرنامج التلفزيوني السياسي «بموضوعية» على قناة إم تي في اللبنانية.",
+	"VideoLink": "https://www.youtube.com/watch?v=UxdQEVPdaq4",
+	"Video": "F:/AppVid/Aboud.mp4"
   },
   {
-    "name": "Peter H. Diamandis",
-    "dob": "May 20, 1961",
-    "city": "New York",
-    "country": "USA",
-    "phone": "(310) 340-2462",
-    "email": "peter@diamandis.com",
-    "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/PeterDiamandis.jpg",
-	"bio": "Peter H. Diamandis is the co-author of the best-selling book 'Abundance: The Future is Better Than You Think' and a speaker, engineer, physician and entrepreneur best known for being the founder and chairman of the X PRIZE Foundation and the co-founder and chairman of Singularity University.",
-	"VideoLink": "https://www.youtube.com/watch?v=Hu3Dx1iEu0g",
-	"Video": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/Lib/site-packages/Clips/film.mp4"
-  },
-  {
-    "name": "Jim Caviezel",
-    "dob": "September 26, 1968",
-    "city": "Mount Vernon, Washington‏",
-    "country": "USA",
-    "phone": "Unknown",
+    "name": "Awaad Al Zayed",
+    "dob": "Unknown",
+    "city": "Unknown",
+    "country": "Kuwait",
+    "phone": "9876543210",
     "email": "Unknown",
-    "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/JimCaviezel.jpg",
-	"bio": "James Patrick Caviezel Jr.[1] (/kəˈviːzəl/; born September 26, 1968) is an American film and television actor who played Jesus Christ in The Passion of the Christ (2004) and starred as John Reese on the CBS series Person of Interest (2011–2016).[2] He played Slov in G.I. Jane (1997), Private Witt in The Thin Red Line (1998), Detective John Sullivan in Frequency (2000), Catch in Angel Eyes (2001), and Edmond Dantès in The Count of Monte Cristo (2002).[3]",
-	"VideoLink": "",
-	"Video": ""
+    "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/awaad.jpg",
+	"bio": "Researcher and writer, I published a collection of books.",
+	"VideoLink": "https://www.youtube.com/watch?v=XVA4o8oUwMg&t=622s",
+	"Video": "F:/Desktop/DesktopVideos/Hypocrisy Exposed Andrew Tate Update  Michael Franzese.mp4"
   },
   {
-    "name": "Eric Metaxas",
-    "dob": "June 27, 1963",
-    "city": "New York City, ‏",
-    "country": "USA",
-    "phone": "Unknown",
-    "email": "info@ericmetaxas.com",
-    "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/Metaxas.png",
-	"bio": "Eric Metaxas (born 1963) is an American author, speaker, and conservative radio host. He has written three biographies, Amazing Grace: William Wilberforce and the Heroic Campaign to End Slavery about William Wilberforce (2007), Bonhoeffer: Pastor, Martyr, Prophet, Spy about Dietrich Bonhoeffer (2011), Martin Luther: The Man Who Rediscovered God and Changed the World (2017), If You Can Keep it (2017), Fish Out of Water: A Search for the Meaning of Life (2021) and Letter to the American Church (2022). He has also written humor, children's books and scripts for VeggieTales.",
-	"VideoLink": "",
-	"Video": ""
+    "name": "Mutlaq Al Jasser",
+    "dob": "Jun 13, 1983",
+    "city": "Unknown",
+    "country": "Kuwait",
+    "phone": "9825455210",
+    "email": "mutlaq09@gmail.com",
+    "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/dr_mutlaq.png",
+	"bio": "Researcher in language engineering. Jurisprudence of the meanings of the Quranic drawing. He created the heavens and the earth. مطلق جاسر مطلق فارس الجاسر, فضيلة الشيخ الدكتور مطلق الجاسر كويتي الجنسية، تنتمي أسرته للعضدان من الجلال من الصقور من قبيلة عنــزة. وهو العميد المساعد للشئون الطلابية في كلية الشريعة والدراسات الإسلامية بجامعة الكويت في الفترة ما بين ( 2018 – 2022م ) نائب رئيس اللجنة الاستشاريه للرقابة الشرعية في وحدة تنظيم التأمين ابتداءً من سنة ٢٠٢٣ باحث ومفكر إسلامي كويتي مهتم بالسياسة الشرعية والفقه المقارن وفي ملف الرد على الليبرالية والعَلمانية والذب والذود عن دين الإسلام بالرد على الشبهات، وله العديد من المؤلفات والأبحاث المنشورة والعديد من التحقيقات والكتب المطبوعة. ",
+	"VideoLink": "https://www.youtube.com/watch?v=iV3TTeikskA&t=1406s",
+	"Video": "F:/AppVid/Mutlaq.mp4"
   }
-]
+]	
