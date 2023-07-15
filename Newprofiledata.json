@@ -10,29 +10,5 @@
 	"bio": "إعلامي و مقدّم برنامج. وليد عبود، محاور سياسي لبناني، يقدم البرنامج التلفزيوني السياسي «بموضوعية» على قناة إم تي في اللبنانية.",
 	"VideoLink": "https://www.youtube.com/watch?v=UxdQEVPdaq4",
 	"Video": "F:/AppVid/Aboud.mp4"
-  },
-  {
-    "name": "Awaad Al Zayed",
-    "dob": "Unknown",
-    "city": "Unknown",
-    "country": "Kuwait",
-    "phone": "9876543210",
-    "email": "Unknown",
-    "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/awaad.jpg",
-	"bio": "Researcher and writer, I published a collection of books.",
-	"VideoLink": "https://www.youtube.com/watch?v=XVA4o8oUwMg&t=622s",
-	"Video": "F:/Desktop/DesktopVideos/Hypocrisy Exposed Andrew Tate Update  Michael Franzese.mp4"
-  },
-  {
-    "name": "Mutlaq Al Jasser",
-    "dob": "Jun 13, 1983",
-    "city": "Unknown",
-    "country": "Kuwait",
-    "phone": "9825455210",
-    "email": "mutlaq09@gmail.com",
-    "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/dr_mutlaq.png",
-	"bio": "Researcher in language engineering. Jurisprudence of the meanings of the Quranic drawing. He created the heavens and the earth. مطلق جاسر مطلق فارس الجاسر, فضيلة الشيخ الدكتور مطلق الجاسر كويتي الجنسية، تنتمي أسرته للعضدان من الجلال من الصقور من قبيلة عنــزة. وهو العميد المساعد للشئون الطلابية في كلية الشريعة والدراسات الإسلامية بجامعة الكويت في الفترة ما بين ( 2018 – 2022م ) نائب رئيس اللجنة الاستشاريه للرقابة الشرعية في وحدة تنظيم التأمين ابتداءً من سنة ٢٠٢٣ باحث ومفكر إسلامي كويتي مهتم بالسياسة الشرعية والفقه المقارن وفي ملف الرد على الليبرالية والعَلمانية والذب والذود عن دين الإسلام بالرد على الشبهات، وله العديد من المؤلفات والأبحاث المنشورة والعديد من التحقيقات والكتب المطبوعة. ",
-	"VideoLink": "https://www.youtube.com/watch?v=iV3TTeikskA&t=1406s",
-	"Video": "F:/AppVid/Mutlaq.mp4"
   }
-]	
+]
