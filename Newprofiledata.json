@@ -8,7 +8,10 @@
     "email": "Unknown",
     "image_path": "C:/Users/Ali/PycharmProjects/pythonProject/SQLite/images/walidabboud.jpg",
 	"bio": "إعلامي و مقدّم برنامج. وليد عبود، محاور سياسي لبناني، يقدم البرنامج التلفزيوني السياسي «بموضوعية» على قناة إم تي في اللبنانية.",
-	"VideoLink": "https://www.youtube.com/watch?v=UxdQEVPdaq4",
+	"VideoLink": [
+		"https://www.youtube.com/watch?v=UxdQEVPdaq4", 
+		"https://youtu.be/_XFunKpj4oU"
+	]
 	"Video": "F:/AppVid/Aboud.mp4"
   }
 ]
