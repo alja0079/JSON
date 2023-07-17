@@ -1,3 +1,4 @@
+
 [
   {
     "name": "Walid Abboud" ,
@@ -8,10 +9,19 @@
     "email": "Unknown",
     "image_path": "C:/Users/alja0/PycharmProjects/FirstProject/walidAbboud.jpg",
 	"bio": "إعلامي و مقدّم برنامج. وليد عبود، محاور سياسي لبناني، يقدم البرنامج التلفزيوني السياسي «بموضوعية» على قناة إم تي في اللبنانية.",
-	"VideoLink": [
-		"https://www.youtube.com/watch?v=UxdQEVPdaq4", 
-		"https://youtu.be/_XFunKpj4oU"
-	],
-	"Video": "F:/AppVid/Aboud.mp4"
+	"VideoLink": ["https://www.youtube.com/watch?v=UxdQEVPdaq4"],
+	"Video": ["F:/AppVid/Aboud.mp4"]
+  },
+  {
+    "name": "Awaad Al Zayed",
+    "dob": "Unknown",
+    "city": "Unknown",
+    "country": "Kuwait",
+    "phone": "9876543210",
+    "email": "Unknown",
+    "image_path": "C:/Users/alja0/PycharmProjects/FirstProject/awaad.jpg",
+	"bio": "Researcher and writer, I published a collection of books.",
+	"VideoLink": ["https://www.youtube.com/watch?v=XVA4o8oUwMg&t=622s"],
+	"Video": ["F:/AppVid/Awaad.mp4"]
   }
 ]
