@@ -23,5 +23,17 @@
 	"bio": "Researcher and writer, I published a collection of books.",
 	"VideoLink": ["https://www.youtube.com/watch?v=XVA4o8oUwMg&t=622s"],
 	"Video": ["F:/AppVid/Awaad.mp4"]
+  },
+  {
+    "name": "Abdalsalam Aqel",
+    "dob": "Unknown",
+    "city": "Unknown",
+    "country": "UAE, United Arab Emirates",
+    "phone": "00447498883556",
+    "email": "akl.salam@gmail.com",
+    "image_path": "C:/Users/alja0/PycharmProjects/FirstProject/Abdalsalam.jpg",
+	"bio": "عبد السلام عقل الناشط السياسي العربي ومذيع الأخبار والمراسل السابق في سكاي نيوز وروسيا اليوم وقناة أبو ظبي والعالم وصوت الشعب وإذاعة القدس. قناتي السياسية نشيطة على يوتيوب والمنصات الأخرى … باحث عن الحقيقة بالرأي الحر المستند لتطورات التاريخ وليس لتطورات التصريحات والمواقف السياسية الخادعة--",
+	"VideoLink": ["https://www.youtube.com/watch?v=WyciHLEgA38&t=616s"],
+	"Video": ["F:/AppVid/AbdlSalam.mp4"]
   }
 ]
